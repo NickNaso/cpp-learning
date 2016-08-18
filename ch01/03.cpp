@@ -20,13 +20,9 @@
 #include <fstream>
 #include <sstream>
 
-
 void write_something (std::ostream& os) {
-
     os << "Hi stream, did you know that 3 * 3 = " << 3 *3 << std::endl;
-
 }
-
 
 int main (int argc, char* argv[]) {
     std::ofstream myfile("example.txt");
@@ -37,6 +33,5 @@ int main (int argc, char* argv[]) {
     write_something(myssstream);
 
     std::cout << "mysstream is: " << myssstream.str();
-
-
+    return 0;
 }
