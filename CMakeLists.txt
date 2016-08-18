@@ -3,5 +3,11 @@ project(cpp_learning)
 
 set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -std=c++11")
 
-set(SOURCE_FILES main.cpp)
-add_executable(cpp_learning ${SOURCE_FILES})
+set(SOURCE_FILES ch01/01.cpp)
+add_executable(ch01-01 ${SOURCE_FILES})
+
+set(SOURCE_FILES ch01/02.cpp)
+add_executable(ch01-02 ${SOURCE_FILES})
+
+set(SOURCE_FILES ch01/03.cpp)
+add_executable(ch01-03 ${SOURCE_FILES})
