@@ -6,5 +6,9 @@ Discovering Modern C++: An Intensive Course for Scientists, Engineers, and Progr
 
 You can find it [here](https://www.amazon.com/Discovering-Modern-Scientists-Programmers-Depth/dp/0134383583).
 
+#### Original work and code made by Peter Gottschling is here:
+[Discovering Modern C++](https://github.com/petergottschling/discovering_modern_cpp)
+
+
 ### License
 [Apache License Version 2.0](https://github.com/NickNaso/cpp-learning/blob/master/LICENSE)
