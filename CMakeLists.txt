@@ -17,3 +17,6 @@ add_executable(ch02-01 ${SOURCE_FILES})
 
 set(SOURCE_FILES ch03/01.cpp)
 add_executable(ch03-01 ${SOURCE_FILES})
+
+set(SOURCE_FILES ch06/01.cpp)
+add_executable(ch06-01 ${SOURCE_FILES})
