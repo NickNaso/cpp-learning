@@ -1,13 +1,10 @@
 # Learning C++
-## Discrovering modern C++
 
-### All the examples are inspired on code present on this book:
-Discovering Modern C++: An Intensive Course for Scientists, Engineers, and Programmers 
+### All the examples are inspired on code present on thisthe following books:
 
-You can find it [here](https://www.amazon.com/Discovering-Modern-Scientists-Programmers-Depth/dp/0134383583).
+* **C++ Concurrency in Action 2nd Edition**
 
-#### Original work and code made by Peter Gottschling is here:
-[Discovering Modern C++](https://github.com/petergottschling/discovering_modern_cpp)
+* **Discrovering modern C++**
 
 
 ### License
